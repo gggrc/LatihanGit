@@ -58,7 +58,7 @@ Repository ini dibuat sebagai latihan untuk memahami penggunaan Git dan GitHub. 
 ## 📧 Nama dan Username
 - Angga Theo Kekuatanta Pasaribu :
 - Jennifer Christabelle :
-- Grace Patricia Ananta :
+- Grace Patricia Ananta : gggrc
 - Gebrina Augustine Padatu :
 - Rafelixa Reynard Isak :
 - Teofilus Satria Rada Insani : pejuangvscode
